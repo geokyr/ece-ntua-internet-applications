@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+h1 { color : red; }
+
+.tableclass{
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 130px;
+	border-spacing: 30px;
+	padding: 5px;
+	background-color: white;
+	
+}
+
+.card {
+	
+	border: 1px solid teal;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding: 5px;
+	background-color: teal;
+	width: 200px;
+	height: 150px;
+	text-align: center;
+	line-height: 150px;
+	
+}
+
+.card:hover {
+	
+	cursor: pointer;
+	background-color: green;
+
+}
