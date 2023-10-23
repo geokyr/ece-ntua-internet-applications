@@ -4,7 +4,7 @@ Practice Problems and Exam Answers for the [Internet Applications](https://www.e
 
 ## Practice Problems
 
-Under the `practice` folder, there are lots of practice problems. Most of these were solved during the lab hours of the course. These cover the following topics.
+There is a folder with practice problems. Most of these were solved during the lab hours of the course. These cover the following topics.
 
 - Java Programming
 - Web Development - HTML, CSS, JavaScript, AJAX
