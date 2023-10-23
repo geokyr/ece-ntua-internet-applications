@@ -7,9 +7,9 @@ Practice Problems and Exam Answers for the [Internet Applications](https://www.e
 There is a folder with practice problems. Most of these were solved during the lab hours of the course. These cover the following topics.
 
 - Java Programming
-- Web Development - HTML, CSS, JavaScript, AJAX
-- Desktop Application Development - Java Swing
-- Database Management and Integration - SQL
+- Web Development (HTML, CSS, JavaScript, AJAX)
+- Desktop Application Development (Java Swing)
+- Database Management and Integration (SQL)
 - Multithreading
 - Data Serialization
 - JavaServer Pages (JSP)
