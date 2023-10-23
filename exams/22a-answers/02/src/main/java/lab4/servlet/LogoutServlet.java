@@ -1,4 +1,4 @@
-package lab4.servlet;
+package lab04.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

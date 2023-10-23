@@ -1,4 +1,4 @@
-package lab4.servlet;
+package lab04.servlet;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -11,9 +11,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import lab4.db.DbConnector;
-import lab4.db.model.Reservation;
-import lab4.db.model.User;
+import lab04.db.DbConnector;
+import lab04.db.model.Reservation;
+import lab04.db.model.User;
 
 /**
  * Servlet implementation class MakeReservationServlet

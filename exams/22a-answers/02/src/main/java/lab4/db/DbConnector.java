@@ -1,4 +1,4 @@
-package lab4.db;
+package lab04.db;
 
 import java.sql.Connection;
 import java.sql.Date;
@@ -11,10 +11,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-import lab4.db.model.Vehicle;
-import lab4.servlet.Util;
-import lab4.db.model.Reservation;
-import lab4.db.model.User;
+import lab04.db.model.Vehicle;
+import lab04.servlet.Util;
+import lab04.db.model.Reservation;
+import lab04.db.model.User;
 
 
 public class DbConnector {

@@ -1,4 +1,4 @@
-package lab4.servlet;
+package lab04.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import lab4.db.DbConnector;
-import lab4.db.model.User;
+import lab04.db.DbConnector;
+import lab04.db.model.User;
 
 /**
  * Servlet implementation class UserRegistrationServlet

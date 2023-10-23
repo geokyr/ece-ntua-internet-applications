@@ -1,4 +1,4 @@
-package lab4.db.model;
+package lab04.db.model;
 
 import java.util.Date;
 
