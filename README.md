@@ -12,8 +12,8 @@ There is a folder with practice problems. Most of these were solved during the l
 - Database Management and Integration (SQL)
 - Multithreading
 - Data Serialization
-- JavaServer Pages (JSP)
 - Java Servlets
+- JavaServer Pages (JSP)
 - Session and Cookie Management
 
 ## Exam Answers
