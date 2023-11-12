@@ -1,4 +1,4 @@
-# ece-ntua-internet-applications
+# internet-applications
 
 Practice Problems and Exam Answers for the [Internet Applications](https://www.ece.ntua.gr/en/undergraduate/courses/3346) course, during the 8th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
